@@ -1,5 +1,5 @@
 # JNP1-Projects
-Projects created during "anguages and tools for programming I" (Języki i narzędzia programowania 1) during the academic year 2022/23 at University of Warsaw.
+Projects created during "languages and tools for programming I" (Języki i narzędzia programowania 1) during the academic year 2022/23 at University of Warsaw.
 
 Throughout this course, we have learned programming paradigms in C++ (OOP, functional, imperative).
 
@@ -19,7 +19,7 @@ My scores:
 | **_worldcup_** | [@BrutBurger](https://github.com/BrutBurger)  | **4** / 6 _pt_ | **3** / 4 _pt_ |
 | **_images_**   | -                                            | **6** / 6 _pt_ | **4** / 4 _pt_ |
 
-Here is the small description of each task.
+Here are small descriptions of tasks.
 
 ## top7
 The main goal of the task was to make rank list of music hits and handling the voting procedures.
@@ -49,7 +49,7 @@ number of arguments, fold expressions.
 
 ## kvfifo
 
-The task was to write an implementation of FIFO queue, where each element had a key an a value. Moreover, it was required to write different operations, 
+The task was to write an implementation of FIFO queue, where each element had a key and a value. Moreover, it was required to write different operations, 
 such as moving all elements with the same key to the start/end, giving maximum/minimum value of a specific key and so on.
 
 _Topics_: Copy-on-write, move semantics, smart pointers, exceptions, STL, 
