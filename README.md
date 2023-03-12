@@ -30,7 +30,7 @@ _Topics_: STL, regex.
 
 The task was to write an own implementation of a hash table, which uses the provided hash function.
 
-_Topics_: More STL, merging C++ code with C code, initializing global objects (preventing 'static initialization order fiasco').
+_Topics_: More STL, merging C++ code with C code, initializing global objects (preventing `static initialization order fiasco`).
 
 ## moneybag
 
@@ -42,7 +42,7 @@ overloading, exceptions, initialization lists, keywords: const, constexpr, etc.
 
 ## organism
 
-The main goal was to implement interactions between organisms, which were templates; interactions varied based on what type of organism meet. 
+The main goal was to implement interactions between organisms, which were templates; interactions varied based on what type of organisms meet. 
 
 _Topics_: Templates, classes, constexpr functions, templates with variable 
 number of arguments, fold expressions.
@@ -68,8 +68,8 @@ exceptions, smart pointers.
 
 The task was to write functions which create images, for example: strip, checker, circle, rotating objects, scaling, adding color features.
 
-The main goal was to provide implement composition and lift of a functions (which are inside 'functional.h') and functions which create specific
-(which are inside 'images.h'). Other files were provided by the authors.
+The main goal was to provide implement composition and lift of functions (inside 'functional.h') and functions which create specific images
+(inside 'images.h'). Other files were provided by the authors.
 
 _Topics_: Functional programming in C++, lambda expressions, templates, fold 
 expressions.
